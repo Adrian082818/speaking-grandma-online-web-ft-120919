@@ -1,6 +1,7 @@
 
 require 'pry'
-def speak_to_grandma(phrase = "")
+def speak_to_grandma(phrase = "Hi Nana, how are you?")
+  
 
 end 
 # Whatever you say to grandma, she should respond with
