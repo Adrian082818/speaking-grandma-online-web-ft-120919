@@ -1,6 +1,6 @@
 
 require 'pry'
-def speak_to_grandma(string)
+def speak_to_grandma(phrase = "")
 if 
 end 
 end 
